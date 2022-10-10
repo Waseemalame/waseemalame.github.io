@@ -2560,7 +2560,10 @@ input, select, textarea {
 		dl dd {
 			margin-left: 2em;
 		}
-
+		.project-img{
+			height: 211px;
+			object-fit: contain;
+		}
 /* Actions */
 
 	ul.actions {

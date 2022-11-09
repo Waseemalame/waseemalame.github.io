@@ -842,7 +842,7 @@ input, select, textarea {
 	.one-icon:before{
 		content: "\f41b";
 	}
-	.inner{
+	.inner-icons{
 		margin-left: 2.5em;
 		display: flex;
 		justify-content: center;

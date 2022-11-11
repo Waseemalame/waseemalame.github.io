@@ -998,6 +998,12 @@ input, select, textarea {
 			-ms-object-position: left;
 			object-position: left;
 		}
+		.img-cont{
+			object-fit: cover;
+		}
+		.img-thumb{
+			object-fit: cover;
+		}
 
 		.image[data-position="center"] img {
 			-moz-object-position: center;

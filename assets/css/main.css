@@ -998,19 +998,13 @@ input, select, textarea {
 			-ms-object-position: left;
 			object-position: left;
 		}
-		.img-cont{
-			object-fit: cover;
-		}
-		.img-thumb{
-			object-fit: cover;
-		}
 
-		/* .image[data-position="center"] img {
+		.image[data-position="center"] img {
 			-moz-object-position: center;
 			-webkit-object-position: center;
 			-ms-object-position: center;
 			object-position: center;
-		} */
+		}
 
 		.image[data-position="25% 25%"] img {
 			-moz-object-position: 25% 25%;
